@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/hardikk-prajapati/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/hardik-prajapati-12">
@@ -59,8 +59,11 @@
 
 ## 💻 Featured Projects
 
-### DocVault — Offline Document Manager
-A privacy-focused document management PWA with offline storage and document utilities.
+### DocVault — Cloud-Based Document Storage
+
+A cloud-based document management platform designed to securely store, organize, access, and manage documents online. Built with React, TypeScript, and modern web technologies, with a focus on efficient file management and a responsive user experience.
+
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS
 
 [View Repository](https://github.com/hardik-prajapati-12/DocVault)
 
