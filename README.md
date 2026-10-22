@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/hardikk-prajapati/)">
+  <a href="https://www.linkedin.com/in/hardikk-prajapati/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/hardik-prajapati-12">
